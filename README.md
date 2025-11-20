@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # moodtracker-pro
 >>>>>>> 5daa75ef77644725ce5d9e6a660dd1cb0541f424
+=======
+
+>>>>>>> 7dc3580ba4c87c47f3d29622f89a0485ecec600a
